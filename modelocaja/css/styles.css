@@ -1,0 +1,102 @@
+body{
+    background-color: #C1BDBA;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.Principal{
+    background-color: #24323d;
+    width: 28vw;
+    height: 60vh;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.contenedorform{
+    background-color: #24323d;
+    display: flex;
+    flex-direction: column;
+}
+
+.botonesform{
+    display: flex;
+    flex-direction: row;
+}
+.signup{
+    background-color: #1ab188;
+    color: #7af4d2;
+    width: 280px;
+    height: 50px;
+    font-weight: bold;
+}
+.login{
+    background-color: #435259;
+    color: #808f94;
+    width: 280px;
+    height: 50px;
+    font-weight: bold;
+}
+
+.tituloform{
+    color: white;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.form{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.inform{
+    background-color: #24323d;
+    color:#F7FFFF;
+    height: 50px;
+    width: 195px;
+    border: 1px solid #7a8891;
+}
+
+.formone{
+    padding: 10px;
+}
+
+.informOne{
+    background-color: #24323d;
+    color:#F7FFFF;
+    height: 50px;
+    width: 450px;
+    border: 1px solid #7a8891;
+}
+
+.formtwo{
+    padding: 10px;
+}
+
+.informdos{
+    background-color: #24323d;
+    color:#F7FFFF;
+    height: 50px;
+    width: 450px;
+    border: 1px solid #7a8891;
+}
+.button{
+    padding: 10px;
+}
+.bot{
+    background-color: #1ab188;
+    color: #dbfffa;
+    height: 80px;
+    width: 450px;
+    font-size: 30px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
